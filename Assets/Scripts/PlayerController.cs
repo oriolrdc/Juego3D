@@ -12,7 +12,6 @@ public class PlayerController : MonoBehaviour
     private InputAction _moveAction;
     private InputAction _jumpAction;
     private Vector2 _moveInput;
-    private Vector2 _lookInput;
     //Velocity
     [SerializeField] private float _playerVelocity = 5;
     private float _turnSmoothVelocity;
