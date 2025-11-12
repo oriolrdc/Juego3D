@@ -47,6 +47,7 @@ public class PlayerController : MonoBehaviour
         {
             Jump();
         }
+
     }
 
     void Movement()
